@@ -1,6 +1,4 @@
-[Neural Network/ ML] Multi-Layer Convolutional Neural Network
-
-## Introduction
+## [Image Processing] Image Transformation and Image Enhancement
 
 - The goal of this project is data transformation / data representation with
     python.
